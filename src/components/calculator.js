@@ -45,7 +45,7 @@ const Calculator = () => {
                 <button onClick={getValue} value="7">7</button>
                 <button onClick={getValue} value="8">8</button>
                 <button onClick={getValue} value="9">9</button>
-                <button onClick={getValue} value=""></button>
+                <button onClick={getValue} value="*">*</button>
 
                 <button onClick={getValue} value="4">4</button>
                 <button onClick={getValue} value="5">5</button>
