@@ -30,7 +30,7 @@ function App() {
 
       {/* 5. फुटर (Footer) - यहाँ जोड़ा गया है */}
       <footer className="footer">
-        Copyright © 2024 Dev Sharma
+        Copyright © 2026 Dev Sharma
       </footer>
     </div>
   );
