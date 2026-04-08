@@ -13,7 +13,7 @@ function App() {
           alt="Dev with Mom" 
           className="profile-img"
         />
-
+    
         {/* 2. नाम (Dev Sharma) */}
         <h2 className="dev-name">
           Dev Sharma
@@ -30,7 +30,7 @@ function App() {
 
       {/* 5. फुटर (Footer) - यहाँ जोड़ा गया है */}
       <footer className="footer">
-        Copyright © 2026 Dev Sharma
+        Copyright © shubham & Golu
       </footer>
     </div>
   );
